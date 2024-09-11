@@ -173,36 +173,36 @@
 
 ##########################################################################################
 # #addition
-print(2 + 2)
+#print(2 + 2)
 # #multiplication
-print(2 * 2)
+#print(2 * 2)
 # #division
-print(2 / 2)
+#print(2 / 2)
 # #modulo #remainder of the division
-print(2 % 2)
+#print(2 % 2)
 # #powers
-print(2 ** 2)
+#print(2 ** 2)
 # #get the max and min of a number
-print(max(2, 3))
-print(min(2, 3))
+#print(max(2, 3))
+#print(min(2, 3))
 # #round a number
-print(round(2.5))
+#Dieprint(round(2.5))
 # # absolute value
-print(abs(-2))
+#print(abs(-2))
 # # order of operations
-print(2 + 10 * 10 + 3)
+#print(2 + 10 * 10 + 3)
 # #to do more you need to import special math libraries from python
-from math import *    
+#from math import *    
 # #this goes out and grabs some different math functions we can use
 # #floor method
-print(floor(3.7))
-print(floor(3.3))
-print(floor(3.9))
+#print(floor(3.7))
+#print(floor(3.3))
+#print(floor(3.9))
 # #ceil method
-print(ceil(3.7))
-print(ceil(3.3))
+#print(ceil(3.7))
+#print(ceil(3.3))
 # #sqrt method
-priny(sqrt(36))
+#print(sqrt(36))
 
 
 
@@ -222,9 +222,18 @@ priny(sqrt(36))
 # # **Getting Input from users**
 # #how do we get input from users?
 # input("what is your name?")
+ask=input("what is your name?")
 # # basic math calculator
 # #ask the user for 2 numbers
+askone=input("list a number")
+asktwo=input("list another number")
 # # print out a statement where you:
+print(f" okay {ask} here are your numbers added") 
+print(int(askone) + int(asktwo)) 
+print(int(askone) * int(asktwo))
+print(int(max(askone, asktwo)))
+print(int(askone) % int(asktwo))
+print(int(round(askone)))
 # # add them together
 # #multiply
 # # find the max number
