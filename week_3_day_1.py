@@ -50,15 +50,15 @@
 # # Review
 # create variables for the following :
 # 1. age
-age=input("what is your age")
+#age=input("what is your age")
 # 2. name
-name= input("what is your name")
+#name= input("what is your name")
 # 3. song
-song= input("what is your favorite song")
+#song= input("what is your favorite song")
 # 4. food\
-food= input("what is your favorite food") 
+#food= input("what is your favorite food") 
 # 5. number
-number=input("what is your favortie number")
+#number=input("what is your favortie number")
 
 
 # #now include the variables you just made print in the following...
@@ -73,9 +73,9 @@ number=input("what is your favortie number")
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
 
-print (f"once upon a time, there was a {age} old coder named {name}.")   
-print(f" {name} liked to hum the song {song} while coding. It was so annoying that their teammates would throw {food} until {name} would stop singing.")
-print(f"Still, {name} was the best coder on the team and could write {number} lines of code every day. Maybe {song} was {name}'s secret power?")
+#print (f"once upon a time, there was a {age} old coder named {name}.")   
+#print(f" {name} liked to hum the song {song} while coding. It was so annoying that their teammates would throw {food} until {name} would stop singing.")
+#print(f"Still, {name} was the best coder on the team and could write {number} lines of code every day. Maybe {song} was {name}'s secret power?")
 
 
 
@@ -108,13 +108,13 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# last_name
+# emailaddress
+# percent
+# variable_name
+# zero
+# list_of_names
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -135,10 +135,10 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# one_variable
+# emailaddress
+# percentage
+# illinois 
 
 
 
